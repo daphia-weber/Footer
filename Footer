@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Footer</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+	<style>
+		footer {
+			background-color: aqua;
+			color: blue;
+			padding: 60px;
+			text-align: center;
+		}
+		.social-icons {
+			list-style: none;
+			margin: 0;
+			padding: 0px;
+		}
+		.social-icons li {
+			display: inline-block;
+			margin-right: 20px;
+		}
+		.social-icons i {
+			font-size: 24px;
+			color: green;
+		}
+	</style>
+</head>
+<body>
+	<footer>
+		<div class="footer-content">
+			<ul class="social-icons">
+				<li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="#" target="_blank"><i class="fa fa-github"></i></a></li>
+				<p>&copy;2024 Daphia Ander</p>
+			</ul>
+		</div>
+	</footer>
+</body>
+</html>
+￼Enter
